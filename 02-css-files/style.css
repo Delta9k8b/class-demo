@@ -1,3 +1,15 @@
-.green {
-    color: green;
+body {
+    text-align: center;
+}
+
+#keaton {
+    height: 300px;
+}
+
+ul {
+    list-style: none;
+}
+
+.f20pt {
+    font-size: 20pt;
 }
