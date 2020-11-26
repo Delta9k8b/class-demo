@@ -2,7 +2,7 @@ body {
     background-color: #efeee7;
     padding: 0;
     margin: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Montserrat";
 }
 
 header {
@@ -32,10 +32,13 @@ header {
     display: block;
     border: 1px solid #efeee7;
     margin: auto;
-    width: 500px;
+    width: 475px;
     text-overflow: wrap;
     position: relative;
     right: 50px;
+    
+    bottom: 25px;
+
     line-height: 1.5;
 }
 
@@ -43,7 +46,7 @@ header {
     margin-right: 100px;
     float: right;
     position: relative;
-    bottom: 225px;
+    bottom: 310px;
     line-height: 1.5;
 }
 
