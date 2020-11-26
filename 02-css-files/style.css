@@ -1,14 +1,61 @@
 body {
-    text-align: center;
+    background-color: #efeee7;
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#keaton {
+header {
+    margin: 0px;
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+    font-size: 24px;
+}
+
+#sec1 {
+    margin-left: 100px;
+}
+
+#keaton-pic {
     height: 300px;
+    border-style: solid;
+        border-width: 1px;
+        border-color: white;
+        border-radius: 25px;
+    float: left;
+}
+
+#bio {
+    display: block;
+    border: 1px solid #efeee7;
+    margin: auto;
+    width: 500px;
+    text-overflow: wrap;
+    position: relative;
+    right: 50px;
+    top: 25px;
+}
+
+#contactinfo {
+    margin-right: 100px;
+    float: right;
+    position: relative;
+    bottom: 225px;
 }
 
 ul {
-    list-style: none;
+    list-style-position: inside;
 }
+
+/* LINK STYLING */
+
+    a {
+        color: #d21034;
+    }
+
 
 /* FONT STYLINGS */
 
