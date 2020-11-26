@@ -10,6 +10,12 @@ ul {
     list-style: none;
 }
 
-.f20pt {
-    font-size: 20pt;
-}
+/* FONT STYLINGS */
+
+    .f20pt {
+        font-size: 20pt;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
